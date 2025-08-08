@@ -1,9 +1,9 @@
-# Connexus-Ag
+# Connexus
 Bridging Farm Economics and Landscape Ecology for Global Sustainability through Hierarchical and Bayesian Optimization
 
 ## Overview
 
-Connexus-Ag is a comprehensive framework for optimizing agricultural landscapes by balancing economic profitability with ecological connectivity. The project integrates:
+Connexus is a comprehensive framework for optimizing agricultural landscapes by balancing economic profitability with ecological connectivity. The project integrates:
 
 - **Economic Intensification (EI)**: Optimizes farm-level interventions (margin strips, habitat conversion) using Pyomo-based mathematical programming
 - **Ecological Connectivity (EC)**: Maximizes landscape connectivity through graph-based optimization and repositioning algorithms
