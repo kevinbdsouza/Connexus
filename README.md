@@ -1,5 +1,6 @@
 # Connexus
-An Integrated Multi-scale Framework for Implementing Economically Feasible Pathways to Landscape Connectivity in Working Agricultural Systems
+An Integrated Multi-scale Framework for Economically Feasible Landscape Connectivity in Working Agricultural Systems
+
 ## Overview
 
 Connexus is a comprehensive framework for optimizing agricultural landscapes by balancing economic profitability with ecological connectivity. The project integrates:
